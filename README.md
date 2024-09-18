@@ -30,10 +30,7 @@
 
 ![](assets/poster.png)
 
-<video controls autoplay loop muted playsinline>
-    <source src="assets/video.mp4" type="video/mp4" />
-    Your browser does not support the video tag.
-</video>
+https://www.youtube.com/watch?v=BKyw51bUhZs
 
 </div>
 
