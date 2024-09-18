@@ -1,5 +1,6 @@
-# Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation
-
+<p align="center">
+    # Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation
+</p>
 <p align="center">
 <a href=""><img src="https://img.shields.io/badge/ArXiv-Paper-<color>"></a>
 <a href="https://www.youtube.com/watch?v=BKyw51bUhZs"><img src="https://img.shields.io/static/v1?label=Youtube&message=Video&color=orange"></a>
