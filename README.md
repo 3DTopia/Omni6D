@@ -22,7 +22,7 @@
 <div><center><strong><br>
     <a href='' target='_blank'>Paper</a>&emsp;
     <a href='https://www.youtube.com/watch?v=BKyw51bUhZs' target='_blank'>Video</a>&emsp;
-    <a href='https://openxlab.org.cn/datasets/kszpxxzmcwww/Omni6D' target='_blank'>Dataset</a>&emsp;
+    <a href='https://openxlab.org.cn/datasets/kszpxxzmcwww/Omni6D' target='_blank'>Data</a>&emsp;
   </strong></center>
 </div>
 
@@ -30,9 +30,8 @@
 
 ![](assets/poster.png)
 
-
-<video class="video img-fluid" loop autoplay muted>
-    <source src="assets/video.mov" />
+<video class="video img-fluid" loop autoplay muted playsinline>
+    <source src="assets/video.mov" type="video/mp4" />
 </video>
 
 </div>
