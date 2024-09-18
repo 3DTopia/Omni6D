@@ -30,7 +30,7 @@
 
 ![](assets/poster.png)
 
-<video class="video img-fluid" loop autoplay muted playsinline>
+<video>
     <source src="assets/video.mp4" type="video/mp4" />
 </video>
 
