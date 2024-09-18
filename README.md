@@ -30,9 +30,8 @@
 
 ![](assets/poster.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BKyw51bUhZs" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/BKyw51bUhZs/0.jpg)](https://www.youtube.com/watch?v=BKyw51bUhZs)
+
 
 </div>
 
