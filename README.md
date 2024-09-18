@@ -30,9 +30,8 @@
 
 ![](assets/poster.png)
 
-<a href="https://www.youtube.com/watch?v=BKyw51bUhZs" target="_blank">
-    <img src="https://img.youtube.com/vi/BKyw51bUhZs/0.jpg" alt="Watch the video" width="800">
-</a>
+[![Watch the video](https://img.youtube.com/vi/BKyw51bUhZs/0.jpg)](https://www.youtube.com/watch?v=BKyw51bUhZs)
+
 </div>
 
 ## Updates
