@@ -31,7 +31,7 @@
 ![](assets/poster.png)
 
 <video class="video img-fluid" loop autoplay muted playsinline>
-    <source src="assets/video.mov" type="video/mp4" />
+    <source src="assets/video.mp4" type="video/mp4" />
 </video>
 
 </div>
