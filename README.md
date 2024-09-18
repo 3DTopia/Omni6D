@@ -26,10 +26,10 @@
   </strong></center>
 </div>
 
-![](./assets/poster.pdf)
+![](assets/poster.pdf)
 
 <video class="video img-fluid" loop autoplay muted>
-    <source src="./assets/video.mov" />
+    <source src="assets/video.mov" />
 </video>
 
 </div>
