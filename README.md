@@ -26,7 +26,7 @@
   </strong></center>
 </div>
 
-![](assets/poster.pdf)
+![](assets/poster.png)
 ![](assets/teaser.png)
 
 
