@@ -33,6 +33,7 @@
 </video>
 
 </div>
+
 ## Updates
 - [07/2024] Dataset **Omni6D** released!
 
