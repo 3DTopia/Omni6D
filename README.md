@@ -27,6 +27,7 @@
 </div>
 
 ![](assets/poster.pdf)
+![](assets/teaser.png)
 
 
 <video class="video img-fluid" loop autoplay muted>
