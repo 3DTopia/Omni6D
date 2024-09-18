@@ -26,7 +26,8 @@
   </strong></center>
 </div>
 
-![](assets/poster.pdf)
+![colored_mesh (1)](assets/poster.png)
+
 
 <video class="video img-fluid" loop autoplay muted>
     <source src="assets/video.mov" />
