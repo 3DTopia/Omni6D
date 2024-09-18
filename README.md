@@ -113,10 +113,10 @@ Omni6D_V1 // Omni6D Dataset
 
 ## TODO
 
-- [ ] Release Code
 - [ ] Release Omni6D-xl (Coming soon)
 - [ ] Release Omni6D-Real (Coming soon)
 - [ ] Release Benchmark of  Omni6D-xl (Coming soon)
+- [ ] Release Code
 
 ## License
 The OmniObject3D dataset is released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
