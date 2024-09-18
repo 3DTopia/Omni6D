@@ -101,7 +101,7 @@ Omni6D_V1 // Omni6D Dataset
 │   │   │   │       // ground truth annotations
 ```
 ## Benchmark
-**Category-level performance on Omni6D dataset.**
+### Category-level performance on Omni6D dataset.
 | Methods     | Network  | $IoU_{50}$   | $IoU_{75}$   | $5^\circ2cm$ | $5^\circ5cm$ | $10^\circ2cm$ | $10^\circ5cm$ | $5^\circ$   | $10^\circ$   | $2cm$        | $5cm$        |
 | ----------- | -------- | ------------ | ------------ | ------------ | ------------ | ------------- | ------------- | ----------- | ------------ | ------------ | ------------ |
 | SPD         | implicit | 44.56        | 20.37        | <u>7.55</u>  | **9.56**     | <u>14.76</u>  | **19.23**     | **10.68**   | **21.02**    | 37.49        | 70.09        |
