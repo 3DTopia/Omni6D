@@ -28,9 +28,10 @@
 
 <br>
 
+[![Watch the video](https://img.youtube.com/vi/BKyw51bUhZs/0.jpg)](https://www.youtube.com/watch?v=BKyw51bUhZs)
+
 ![](assets/poster.png)
 
-[![Watch the video](https://img.youtube.com/vi/BKyw51bUhZs/0.jpg)](https://www.youtube.com/watch?v=BKyw51bUhZs)
 
 </div>
 
