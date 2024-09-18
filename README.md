@@ -26,8 +26,8 @@
   </strong></center>
 </div>
 
+
 ![](assets/poster.png)
-![](assets/teaser.png)
 
 
 <video class="video img-fluid" loop autoplay muted>
