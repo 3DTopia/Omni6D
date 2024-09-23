@@ -37,6 +37,7 @@
 
 ## Updates
 - [07/2024] Dataset **Omni6D** released!
+- [09/2024] Dataset **Omni6D-xl** released!
 
 ## Usage
 
@@ -72,7 +73,7 @@ For more information, please refer to the [documentation](https://openxlab.org.c
 ### Dataset format
 
 ```
-Omni6D_V1 // Omni6D Dataset
+Omni6D(-xl) // Omni6D(-xl) Dataset
 ├── info
 │   ├── sym_info.csv 
 │   │       // rotational invariance of each mesh
