@@ -86,6 +86,10 @@ Omni6D_V1 // Omni6D Dataset
 │   ├── ShapeNetCore_unseen_<2048/4096>.h5
 │   │       // sampled 2048/4096 points from each mesh
 │   │       // normalized to NOCS
+│   ├── mean_embedding.npy
+│   │       // mean embedding of each category
+│   ├── mean_points_emb.npy
+│   │       // mean shape of each category
 ├── CAMERA         
 │   ├── <train/val/test/test_unseen>
 │   │   ├── <scene_id>
