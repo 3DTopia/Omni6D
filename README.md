@@ -118,7 +118,6 @@ Omni6D(-xl) // Omni6D(-xl) Dataset
 
 ## TODO
 
-- [ ] Release Omni6D-xl (Coming soon)
 - [ ] Release Omni6D-Real (Coming soon)
 - [ ] Release Benchmark of  Omni6D-xl (Coming soon)
 - [ ] Release Code
