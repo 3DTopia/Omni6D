@@ -9,7 +9,7 @@
 </p>
 
 <div><center>
-    <a href='https://github.com/kszpxxzmc/' target='_blank'>Mengchen Zhang</a>&emsp;
+    <a href='https://kszpxxzmc.github.io/' target='_blank'>Mengchen Zhang</a>&emsp;
     <a href='https://wutong16.github.io/' target='_blank'>Tong Wu</a>&emsp;
     <a href='https://tai-wang.github.io/' target='_blank'>Tai Wang</a>&emsp;
     <a href='https://tengfei-wang.github.io/' target='_blank'>Tengfei Wang</a>&emsp;
