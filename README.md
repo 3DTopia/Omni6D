@@ -37,7 +37,7 @@
 
 ## Updates
 - [07/2024] Dataset **Omni6D** released!
-- [09/2024] Dataset **Omni6D-xl** released!
+- [09/2024] Dataset **Omni6D-xl** and **Omni6D-Real** released!
 
 ## Usage
 
@@ -102,9 +102,24 @@ Omni6D(-xl) // Omni6D(-xl) Dataset
 │   │   │   │       // NOCS mapping
 │   │   │   ├── <render_id>_mask.png
 │   │   │   │       // instance mask
+│   │   │   ├── <render_id>_meta.txt
+│   │   │   │       // instance name
 │   │   │   ├── <render_id>_label.pkl
 │   │   │   │       // ground truth annotations
+Omni6D_Real // Omni6D_Real Dataset
+│   ├── <scene_id>
+│   │   ├── <capture_id>_color.png
+│   │   │       // RGB image
+│   │   ├── <capture_id>_depth.png
+│   │   │       // depth map
+│   │   ├── <capture_id>_mask.png
+│   │   │       // instance mask
+│   │   ├── <capture_id>_mask.png
+│   │   │       // instance name
+│   │   ├── <capture_id>_label.pkl
+│   │   │       // ground truth annotations
 ```
+
 ## Benchmark
 ### Category-level performance on Omni6D dataset.
 | Methods     | Network  | $IoU_{50}$   | $IoU_{75}$   | $5^\circ2cm$ | $5^\circ5cm$ | $10^\circ2cm$ | $10^\circ5cm$ | $5^\circ$   | $10^\circ$   | $2cm$        | $5cm$        |
