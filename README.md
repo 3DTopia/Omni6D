@@ -141,7 +141,6 @@ Omni6D_Real // Omni6D_Real Dataset
 | HS-Pose     | explicit | **61.87**  | **24.72**  | 4.48         | 5.89         | 7.94          | 9.98          | 6.36      | 10.68      | **68.89**| **88.29** |
 
 ## TODO
-- [ ] Release Benchmark of  Omni6D-xl (Coming soon)
 - [ ] Release Code
 
 ## License
