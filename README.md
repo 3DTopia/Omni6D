@@ -145,7 +145,7 @@ The OmniObject3D dataset is released under the [CC BY 4.0](https://creativecommo
 
 ## Reference
 If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝
-'''
+```
 @misc{zhang2024omni6dlargevocabulary3dobject,
       title={Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation}, 
       author={Mengchen Zhang and Tong Wu and Tai Wang and Tengfei Wang and Ziwei Liu and Dahua Lin},
