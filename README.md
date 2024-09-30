@@ -20,7 +20,7 @@
 <center><strong>Accepted to <a href='https://eccv2024.ecva.net/' target='_blank'>ECCV 2024</a>  </strong></center>
 
 <div><center><strong><br>
-    <a href='' target='_blank'>Paper</a>&emsp;
+    <a href='https://arxiv.org/abs/2409.18261' target='_blank'>Paper</a>&emsp;
     <a href='https://www.youtube.com/watch?v=BKyw51bUhZs' target='_blank'>Video</a>&emsp;
     <a href='https://openxlab.org.cn/datasets/kszpxxzmcwww/Omni6D' target='_blank'>Data</a>&emsp;
   </strong></center>
