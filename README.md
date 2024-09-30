@@ -140,11 +140,19 @@ Omni6D_Real // Omni6D_Real Dataset
 | GPV-Pose    | explicit | 17.01      | 1.42       | 0.51         | 1.90         | 0.55          | 2.07          | 5.08      | 5.72       | 5.19  | 26.32 |
 | HS-Pose     | explicit | **62.92**	|**26.50**	|4.98	|6.26|	8.81	|10.73	|6.65|	11.39	|**71.68**	|**89.38**|
 
-## TODO
-- [ ] Release Code
-
 ## License
 The OmniObject3D dataset is released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Reference
 If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝
+'''
+@misc{zhang2024omni6dlargevocabulary3dobject,
+      title={Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation}, 
+      author={Mengchen Zhang and Tong Wu and Tai Wang and Tengfei Wang and Ziwei Liu and Dahua Lin},
+      year={2024},
+      eprint={2409.18261},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2409.18261}, 
+}
+```
