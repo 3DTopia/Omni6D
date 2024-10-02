@@ -120,6 +120,25 @@ Omni6D_Real // Omni6D_Real Dataset
 │   │   │       // ground truth annotations
 ```
 
+## Dataset construction
+1. Install a suitable version of [BlenderProc](https://github.com/DLR-RM/BlenderProc)
+```
+git clone git@github.com:3DTopia/Omni6D.git
+cd Omni6D
+pip install blenderproc 
+```
+2. In dataset/dataset.py, update the following:
+Replace <path-to-output> with the path to your objects' data.
+Replace <path-to-replica> with the path to your replica files.
+3. For a single test, run the following command:
+```
+blenderproc run dataset/dataset.py
+```
+4. For batch dataset generation, execute the batch script:
+```
+bash multi_run.sh
+```
+
 ## Benchmark
 ### Category-level performance on Omni6D dataset.
 | Methods     | Network  | $IoU_{50}$   | $IoU_{75}$   | $5^\circ2cm$ | $5^\circ5cm$ | $10^\circ2cm$ | $10^\circ5cm$ | $5^\circ$   | $10^\circ$   | $2cm$        | $5cm$        |
