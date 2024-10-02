@@ -14,7 +14,7 @@ import pickle
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--output_dir', default="<path-to-output>", help="Path to where the final files, will be saved, could be examples/basics/basic/output")
-parser.add_argument('--split', default="train", help="dataset split you want to generate, could be train, val, test, test_unseen")
+parser.add_argument('--split', default="<train/val/test>", help="dataset split you want to generate, could be train, val, test, test_unseen")
 parser.add_argument('--scene', default="<path-to-replica>", help="Path to where the final files, will be saved, could be examples/basics/basic/output")
 args = parser.parse_args()
 os.environ["GIT_PYTHON_REFRESH"] = "quiet"
