@@ -128,8 +128,10 @@ cd Omni6D
 pip install blenderproc 
 ```
 2. In dataset/dataset.py, update the following:
+```
 Replace <path-to-output> with the path to your objects' data.
 Replace <path-to-replica> with the path to your replica files.
+```
 3. For a single test, run the following command:
 ```
 blenderproc run dataset/dataset.py
