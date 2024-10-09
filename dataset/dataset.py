@@ -88,7 +88,7 @@ def create(room_name):
     print(size_x, size_y, size_z)
     room.set_scale([roomscale, roomscale, roomscale])
     
-    model_objects = "/DATA/Omni6D/obj_models"
+    model_objects = "<path-to-your-objectmesh>"
     model_num = random.choice(list(range(4,7)))
     models = []
     cates = os.listdir(os.path.join(model_objects, split))
