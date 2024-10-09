@@ -129,8 +129,12 @@ pip install blenderproc
 ```
 2. In dataset/dataset.py, update the following:
 ```
-Replace <path-to-output> with the path to your objects' data.
-Replace <path-to-replica> with the path to your replica files.
+(1) Replace <path-to-output> with the path to your dataset.
+(2) Replace <path-to-replica> with the path to your replica files.
+// The scenes can be downloaded from [Replica-Dataset](https://github.com/facebookresearch/Replica-Dataset).
+(3) Replace <path-to-your-objectmesh> with the path to your object meshes.
+Our object meshes will not be released due to their large size and because they are not necessary for the task. However, you can find the corresponding point clouds in Omni6D(-xl)/shape_data/ShapeNetCore_<2048/4096>.h5, which contain 2048 or 4096 points sampled from each mesh, normalized to NOCS.
+// For constructing your own dataset with real-scanned object meshes, you can make use of OmniObject3D (https://github.com/omniobject3d/OmniObject3D), which includes a significant portion of our object meshes.
 ```
 3. For a single test, run the following command:
 ```
