@@ -2,7 +2,7 @@
 
 # Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation
 <p align="center">
-<a href=""><img src="https://img.shields.io/badge/ArXiv-Paper-<color>">https://arxiv.org/abs/2409.18261</a>
+<a href="https://arxiv.org/abs/2409.18261"><img src="https://img.shields.io/badge/ArXiv-Paper-<color>"></a>
 <a href="https://www.youtube.com/watch?v=BKyw51bUhZs"><img src="https://img.shields.io/static/v1?label=Youtube&message=Video&color=orange"></a>
 <a href="https://openxlab.org.cn/datasets/kszpxxzmcwww/Omni6D"><img src="https://img.shields.io/static/v1?label=Openxlab&message=Data&color=blue"></a>
 </a>
